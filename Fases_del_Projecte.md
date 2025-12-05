@@ -1,6 +1,7 @@
 Fases del projecte
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Fase 1: Implementació inicial
+
 Què hi ha actualment?
 
 -El museu disposa d’exposicions estàtiques sense interacció digital.
@@ -13,6 +14,7 @@ Què hi ha actualment?
 
 
 Què es farà?
+
 1. Identificació i planificació de punts QR
 
 -Selecció de peces i espais on s’ubicaran els codis QR.
@@ -36,6 +38,7 @@ Què es farà?
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Fase 2: Desenvolupament i Optimització de Continguts
+
 Què hi ha actualment?
 
 -Continguts textuals dispersos.
@@ -46,6 +49,7 @@ Què hi ha actualment?
 
 
 Què es farà?
+
 1. Creació de continguts multimèdia
 
 -Redacció de textos informatius i històrics.
@@ -70,7 +74,9 @@ Què es farà?
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Fase 3: Plataforma per a Ceramistes
+
 Què hi ha actualment?
+
 No hi ha un espai de comunicació entre ceramistes i el museu.
 
 
@@ -78,6 +84,7 @@ Els artistes no poden mostrar, vendre o promocionar fàcilment les seves obres.
 
 
 Què es farà?
+
 1. Desenvolupament de la plataforma
 
 Creació d’un portal on els ceramistes puguin:
@@ -100,6 +107,7 @@ Els responsables del museu podran validar ceramistes i gestionar contingut.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Fase 4: Seguretat i Monitoratge de Conservació
+
 Què hi ha actualment?
 
 -Càmeres de seguretat no integrades en una mateixa plataforma.
@@ -109,6 +117,7 @@ Què hi ha actualment?
 
 
 Què es farà?
+
 1. Panell de seguretat unificat
 
 -Un dashboard on el personal podrà veure:
