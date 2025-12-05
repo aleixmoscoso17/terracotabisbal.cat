@@ -1,14 +1,16 @@
 Projecte Intermodular: Museu Terracota Bisbal
 
-       Context
+Context
+
 El Terracotta Museu de la Bisbal d’Empordà és un espai dedicat a la història, tècniques i tradicions de la ceràmica, un element essencial de la identitat cultural i econòmica de la comarca.
  El museu conserva i exposa peces, maquinària, eines i processos vinculats tant a la ceràmica tradicional com a la contemporània.
 Per tal de modernitzar el museu i enriquir l’experiència dels visitants, es proposa la implementació d’un sistema basat en codis QR que permeti ampliar la informació sobre les peces exposades i altres espais del museu.
 
-       Objectiu principal
+Objectiu principal
+
 Crear una experiència museística interactiva que permeti als visitants accedir a informació extra sobre les peces i els espais mitjançant la lectura de codis QR amb dispositius mòbils.
 
-       Objectius específics
+Objectius específics
 
 Oferir contingut audiovisual i textual amb curiositats, context històric i informació tècnica de cada peça o zona del museu.
 
@@ -76,7 +78,7 @@ Alertes automàtiques si els valors superen els límits recomanats.
 
 Aquesta eina millora la conservació i la vigilància del museu.
 
-     Abast del projecte
+Abast del projecte
 
 Identificació de peces i espais per incorporar codis QR.
 
