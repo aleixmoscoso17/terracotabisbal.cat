@@ -84,24 +84,32 @@ Abast del projecte
 
 -Desenvolupament del panell de seguretat i monitoratge.
 
+-Traducció de tots els continguts a diversos idiomes.
+
+-Instal·lació i activació final del sistema.
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Moduls que ens basarem:
 
 M01 Muntatge i manteniment
+
 M02 Sistemes operatius monolloc
+
 M03 Aplicacions ofimàtiques
+
 M04 Sistemes operatius en xarxa
+
 M05 Xarxes locals
+
 M06 Seguretat informàtica
+
 M07 Serveis de xarxa
+
 M08 Aplicacions web
+
 M09 Formació i orientació laboral
+
 M10 Empresa i iniciativa emprenedora
+
 M11 Anglès tècnic
-
--Traducció de tots els continguts a diversos idiomes.
-
--Instal·lació i activació final del sistema.
-
-
