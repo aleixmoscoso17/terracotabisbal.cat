@@ -46,6 +46,7 @@ Aquesta plataforma reforça el vincle entre el museu i el teixit artesanal local
 
 
 2. Cloud o espai digital associat als codis QR
+
 En escanejar cada QR, el visitant serà redirigit a una pàgina allotjada al núvol que contindrà:
 Informació detallada de cada peça.
 
@@ -66,7 +67,9 @@ Aquest espai permet mantenir els continguts actualitzats i vius en qualsevol mom
 
 
 3. Sistema de seguretat i monitoratge d’obres
+
 Espai digital separat per al personal de seguretat amb:
+
 Visualització de càmeres de seguretat en temps real per prevenir robatoris o incidents.
 
 
