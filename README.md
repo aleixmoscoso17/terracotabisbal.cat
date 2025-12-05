@@ -68,6 +68,7 @@ Espai digital separat per al personal de seguretat amb:
 -Alertes automàtiques si els valors superen els límits recomanats.
 
 -Aquesta eina millora la conservació i la vigilància del museu.
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Abast del projecte
 
