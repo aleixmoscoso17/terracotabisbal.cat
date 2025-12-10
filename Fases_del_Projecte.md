@@ -1,172 +1,90 @@
 Fases del projecte
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Fase 1: Implementació inicial
-
 Què hi ha actualment?
 
--El museu disposa d’exposicions estàtiques sense interacció digital.
+-Exposicions estàtiques sense interacció digital.
 
--No existeix una plataforma per a ceramistes locals.
+-No existeix plataforma web per a ceramistes locals.
 
--Els codis QR no estan implementats.
+-Codis QR inexistents.
 
--El personal de seguretat utilitza sistemes bàsics sense monitoratge d’humitat/temperatura.
-
+-Sistemes de seguretat bàsics i sense sensors ambientals.
 
 Què es farà?
 
-1. Identificació i planificació de punts QR
+-Planificació dels punts QR
 
--Selecció de peces i espais on s’ubicaran els codis QR.
+-Selecció de peces i espais.
 
--Definició del tipus de continguts associats (text, imatges, vídeos, àudio).
+-Definició del tipus de contingut (text, fotos, vídeos, àudio).
 
+-Infraestructura digital
 
-2. Disseny i creació de la infraestructura digital
+-Creació del servidor o espai cloud.
 
--Creació del servidor o espai cloud per allotjar totes les pàgines informatives.
+-Base de la plataforma web per als continguts QR.
 
--Disseny de la interfície base de la plataforma web adaptada a dispositius mòbils.
-
-
-3. Disseny estètic i generació dels codis QR
-
--Disseny gràfic integrat amb l’estètica del Museu Terracotta.
-
-
--Generació i prova de lectura dels QR.
+-Disseny i generació dels codis QR
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Fase 2: Desenvolupament i Optimització de Continguts
-
+Fase 2: Desenvolupament de continguts i plataformes
 Què hi ha actualment?
 
--Continguts textuals dispersos.
+-Continguts textuals dispersos i poc audiovisual.
 
--No hi ha material audiovisual modernitzat.
+-Les dades dels artistes no estan centralitzades.
 
--Informació dels artistes no està centralitzada.
-
+-Els ceramistes locals no tenen cap espai digital per contactar o mostrar la seva obra.
 
 Què es farà?
 
-1. Creació de continguts multimèdia
+-Plataforma web per a ceramistes 
 
--Redacció de textos informatius i històrics.
+-Creació d’un portal on els ceramistes puguin:
 
--Gravació/edició de vídeos, fotos i so.
+-Contactar amb el museu.
 
--Preparació de versions multilingües.
+-Proposar exposicions.
 
+-Mostrar i vendre obres.
 
-2. Integració amb el Cloud
+-Crear un perfil públic.
 
--Cada QR portarà a una pàgina específica amb informació de la peça i l’artista.
+-Sistema intern perquè el museu validi ceramistes i gestioni el contingut.
 
--Possibilitat d’actualitzar contingut en temps real.
+-Continguts multimèdia
 
+-Textos històrics i tècnics.
 
-3. Optimització per a dispositius mòbils
+-Fotografies, vídeos i àudios.
 
--Millora del rendiment i velocitat.
+-Versions multilingües.
 
--Adaptació del disseny perquè el contingut sigui fàcil de llegir i accessible.
+-Integració amb el Cloud
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Fase 3: Plataforma per a Ceramistes
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Fase 3: Seguretat, proves i millora contínua
 Què hi ha actualment?
 
-No hi ha un espai de comunicació entre ceramistes i el museu.
-
-
-Els artistes no poden mostrar, vendre o promocionar fàcilment les seves obres.
-
+-Seguretat fragmentada i sense control ambiental.
 
 Què es farà?
 
-1. Desenvolupament de la plataforma
+-Panell de seguretat
 
-Creació d’un portal on els ceramistes puguin:
+-Visualització de càmeres en temps real.
 
--Contactar amb el museu
+-Alertes automàtiques.
 
--Sol·licitar exposicions
+-Alertes quan es superin els límits.
 
--Mostrar catàleg d’obres
+-Revisió del funcionament dels QR i del cloud.
 
--Rebre visibilitat pública
+-Formació al personal
 
+-Ús del panell de seguretat.
 
-2. Integració amb el sistema QR
-Els ceramistes vinculats a una peça tindran fitxes visibles des del QR.
+Gestió de la plataforma de ceramistes.
 
-
-3. Sistema d’administració intern
-Els responsables del museu podran validar ceramistes i gestionar contingut.
-
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Fase 4: Seguretat i Monitoratge de Conservació
-
-Què hi ha actualment?
-
--Càmeres de seguretat no integrades en una mateixa plataforma.
-
-
--No hi ha control digitalitzat d’humitat ni temperatura de les sales.
-
-
-Què es farà?
-
-1. Panell de seguretat unificat
-
--Un dashboard on el personal podrà veure:
-
-
--Càmeres de vigilància en temps real
-
-
--Alertes automatitzades
-
-
-2. Sistema de monitoratge ambiental
-
--Sensors d’humitat i temperatura a les sales.
-
-
--Alertes quan els valors superin els llindars recomanats.
-
-
-3. Integració amb la plataforma general
-Tot connectat al mateix ecosistema digital del museu.
-
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Fase 5: Tancament, Tests i Millora Contínua
-
-Què hi ha actualment?
-
-El sistema ja estaria implementat però sense validació final.
-
-Què es farà?
-
-1. Tests i proves reals
-
--Proves amb visitants.
-
--Ajustos d’accessibilitat i velocitat.
-
--Revisió dels continguts, QR i sensors.
-
-2. Formació al personal
-
--Guia d’ús del panell de seguretat.
-
--Gestió de la plataforma de ceramistes.
-
--Actualització de continguts del cloud.
-
-3. Optimització contínua
-
--Millora de rendiment.
-
--Incorporació de nous QR i peces a l’exposició.
+Actualització de continguts.
