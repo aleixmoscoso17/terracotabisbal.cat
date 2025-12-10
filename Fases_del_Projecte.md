@@ -85,6 +85,6 @@ Què es farà?
 
 -Ús del panell de seguretat.
 
-Gestió de la plataforma de ceramistes.
+-Gestió de la plataforma de ceramistes.
 
-Actualització de continguts.
+-Actualització de continguts.
