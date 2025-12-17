@@ -1,6 +1,7 @@
 Fases del projecte
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Fase 1: Implementació inicial
+
 Què hi ha actualment?
 
 -Exposicions estàtiques sense interacció digital.
