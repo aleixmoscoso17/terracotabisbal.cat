@@ -2,14 +2,12 @@ Projecte Intermodular: Museu Terracota Bisbal
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Context
 
-El Terracotta Museu de la Bisbal d’Empordà és un espai dedicat a la història, tècniques i tradicions de la ceràmica, un element essencial de la identitat cultural i econòmica de la comarca.
-El museu conserva i exposa peces, maquinària, eines i processos vinculats tant a la ceràmica tradicional com a la contemporània.
-Per tal de modernitzar el museu i enriquir l’experiència dels visitants, es proposa la implementació d’un sistema basat en codis QR que permeti ampliar la informació sobre les peces exposades i altres espais del museu.
+El Terracotta Museu de la Bisbal d’Empordà és un espai dedicat a la història, tècniques i tradicions de la ceràmica, un element essencial de la identitat cultural i econòmica de la comarca. El museu conserva i exposa peces, maquinària, eines i processos vinculats tant a la ceràmica tradicional com a la contemporània. Per tal de modernitzar el museu i enriquir l’experiència dels visitants, es proposa la implementació d’un sistema basat en codis QR que permeti ampliar la informació sobre les peces exposades i altres espais del museu, incorporant també funcionalitats interactives per fomentar la participació dels usuaris.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Objectiu principal
 
-Crear una experiència museística interactiva que permeti als visitants accedir a informació extra sobre les peces i els espais mitjançant la lectura de codis QR amb dispositius mòbils.
+Crear una experiència museística interactiva que permeti als visitants accedir a informació extra sobre les peces i els espais mitjançant la lectura de codis QR amb dispositius mòbils, així com interactuar amb els continguts mitjançant valoracions, ressenyes i activitats digitals.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Objectius específics
@@ -23,6 +21,12 @@ Objectius específics
 -Modernitzar la relació visitant–museu a través d’una interacció autònoma.
 
 -Contribuir a la digitalització del museu i reforçar-ne la projecció cultural i turística.
+
+-Permetre als visitants valorar i comentar les peces del museu.
+
+-Incorporar elements de gamificació (preguntes i sistema de punts) per millorar la participació.
+
+-Crear perfils d’usuari per personalitzar l’experiència de visita.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 1. Plataforma per a ceramistes locals
@@ -48,13 +52,17 @@ En escanejar cada QR, el visitant serà redirigit a una pàgina allotjada al nú
 
 -Fitxa de l’artista o artesà relacionat.
 
--Galeries d’imatges o vídeos.
+-Galeries d’imatges, vídeos i àudios (àudio-guies).
 
 -Idiomes múltiples.
 
 -Connexió amb la plataforma de ceramistes (quan sigui pertinent).
 
--Aquest espai permet mantenir els continguts actualitzats i vius en qualsevol moment.
+-Sistema de valoracions i comentaris dels visitants.
+
+-Preguntes interactives associades a cada peça (gamificació).
+
+Aquest espai permet mantenir els continguts actualitzats i vius en qualsevol moment, així com recollir dades d’interacció dels usuaris.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 3. Sistema de seguretat i monitoratge d’obres
@@ -67,7 +75,7 @@ Espai digital separat per al personal de seguretat amb:
 
 -Alertes automàtiques si els valors superen els límits recomanats.
 
--Aquesta eina millora la conservació i la vigilància del museu.
+Aquesta eina millora la conservació i la vigilància del museu.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Abast del projecte
@@ -87,6 +95,12 @@ Abast del projecte
 -Traducció de tots els continguts a diversos idiomes.
 
 -Instal·lació i activació final del sistema.
+
+-Implementació d’un sistema d’usuaris (registre i inici de sessió).
+
+-Integració de ressenyes, valoracions i sistema de puntuació.
+
+-Recollida i anàlisi de dades d’ús (estadístiques de visites i interaccions).
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
