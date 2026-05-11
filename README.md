@@ -64,18 +64,6 @@ En escanejar cada QR, el visitant serà redirigit a una pàgina allotjada al nú
 
 Aquest espai permet mantenir els continguts actualitzats i vius en qualsevol moment, així com recollir dades d’interacció dels usuaris.
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-3. Sistema de seguretat i monitoratge d’obres
-
-Espai digital separat per al personal de seguretat amb:
-
--Visualització de càmeres de seguretat en temps real per prevenir robatoris o incidents.
-
--Control d’humitat i temperatura per evitar danys al patrimoni.
-
--Alertes automàtiques si els valors superen els límits recomanats.
-
-Aquesta eina millora la conservació i la vigilància del museu.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Abast del projecte
@@ -86,17 +74,11 @@ Abast del projecte
 
 -Disseny i generació dels codis QR adaptats a l’estètica del museu.
 
--Desenvolupament d’una plataforma web mòbil (núvol) per als visitants.
-
 -Creació de la plataforma per a ceramistes locals.
-
--Desenvolupament del panell de seguretat i monitoratge.
 
 -Traducció de tots els continguts a diversos idiomes.
 
 -Instal·lació i activació final del sistema.
-
--Implementació d’un sistema d’usuaris (registre i inici de sessió).
 
 -Integració de ressenyes, valoracions i sistema de puntuació.
 
