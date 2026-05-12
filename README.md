@@ -2,87 +2,81 @@ Projecte Intermodular: Museu Terracota Bisbal
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Context
 
-El Terracotta Museu de la Bisbal d’Empordà és un espai dedicat a la història, tècniques i tradicions de la ceràmica, un element essencial de la identitat cultural i econòmica de la comarca. El museu conserva i exposa peces, maquinària, eines i processos vinculats tant a la ceràmica tradicional com a la contemporània. Per tal de modernitzar el museu i enriquir l’experiència dels visitants, es proposa la implementació d’un sistema basat en codis QR que permeti ampliar la informació sobre les peces exposades i altres espais del museu, incorporant també funcionalitats interactives per fomentar la participació dels usuaris.
+El Terracotta Museu de la Bisbal d’Empordà és un espai dedicat a la història, les tècniques i les tradicions de la ceràmica, un element essencial de la identitat cultural i econòmica de la comarca. El museu conserva i exposa peces, maquinària, eines i processos vinculats tant a la ceràmica tradicional com a la contemporània.
+Per modernitzar l’experiència dels visitants, es proposa una plataforma web associada a codis QR. Aquesta plataforma permet consultar informació ampliada de les peces, veure imatges, llegir curiositats i participar mitjançant valoracions i comentaris.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Objectiu principal
 
-Crear una experiència museística interactiva que permeti als visitants accedir a informació extra sobre les peces i els espais mitjançant la lectura de codis QR amb dispositius mòbils, així com interactuar amb els continguts mitjançant valoracions, ressenyes i activitats digitals.
+Crear una experiència museística més interactiva que permeti als visitants accedir a informació extra sobre les peces del museu mitjançant codis QR i dispositius mòbils, i interactuar amb els continguts a través de valoracions i comentaris.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Objectius específics
 
--Oferir contingut audiovisual i textual amb curiositats, context històric i informació tècnica de cada peça o zona del museu.
+-Oferir informació textual, imatges i curiositats sobre les peces del museu.
 
--Fomentar una experiència educativa i immersiva per a públic jove i turístic.
+-Facilitar l’accés a les fitxes digitals mitjançant URLs preparades per codis QR.
 
--Facilitar l’accessibilitat en diversos idiomes.
+-Fomentar una experiència més educativa i participativa per als visitants.
 
--Modernitzar la relació visitant–museu a través d’una interacció autònoma.
-
--Contribuir a la digitalització del museu i reforçar-ne la projecció cultural i turística.
+-Modernitzar la relació visitant–museu mitjançant una web senzilla i accessible.
 
 -Permetre als visitants valorar i comentar les peces del museu.
 
--Incorporar elements de gamificació (preguntes i sistema de punts) per millorar la participació.
+-Crear perfils públics de ceramistes locals.
 
--Crear perfils d’usuari per personalitzar l’experiència de visita.
+-Permetre el contacte amb ceramistes mitjançant formularis.
+
+-Guardar comentaris, valoracions i missatges en una base de dades.
+
+-Incorporar un panell d’administració bàsic per gestionar dades i ceramistes.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 1. Plataforma per a ceramistes locals
 
-Una plataforma digital perquè els ceramistes de la Bisbal puguin:
+El projecte inclou una secció digital dedicada als ceramistes locals. Aquesta part permet mostrar perfils públics amb informació professional, imatge, especialitat i biografia.
 
--Contactar directament amb el museu.
+També inclou un formulari de contacte perquè els visitants o el museu puguin enviar missatges relacionats amb cada ceramista. Els perfils poden ser gestionats des del panell d’administració, on es poden marcar com a validats, pendents o rebutjats.
 
--Proposar exposicions del seu treball.
-
--Vendre o promocionar les seves peces.
-
--Visibilitzar el seu perfil professional i artístic al públic.
-
--Aquesta plataforma reforça el vincle entre el museu i el teixit artesanal local, potenciant la ceràmica com a motor cultural i econòmic.
+Aquesta plataforma reforça el vincle entre el museu i el teixit artesanal local, donant més visibilitat als professionals de la ceràmica.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 2. Cloud o espai digital associat als codis QR
 
-En escanejar cada QR, el visitant serà redirigit a una pàgina allotjada al núvol que contindrà:
+Cada peça disposa d’una fitxa digital accessible mitjançant una URL individual, preparada per poder-se associar a un codi QR. Quan el visitant escaneja el QR, accedeix directament a la pàgina de la peça.
 
--Informació detallada de cada peça.
+Cada fitxa pot contenir:
 
--Fitxa de l’artista o artesà relacionat.
+-Informació detallada de la peça.
+-Imatge de la peça.
+-Autor o ceramista relacionat.
+-Descripció i curiositat.
+-Sistema de valoracions i comentaris.
 
--Galeries d’imatges, vídeos i àudios (àudio-guies).
-
--Idiomes múltiples.
-
--Connexió amb la plataforma de ceramistes (quan sigui pertinent).
-
--Sistema de valoracions i comentaris dels visitants.
-
--Preguntes interactives associades a cada peça (gamificació).
-
-Aquest espai permet mantenir els continguts actualitzats i vius en qualsevol moment, així com recollir dades d’interacció dels usuaris.
-
+Aquest espai permet mantenir la informació centralitzada i actualitzable des de la base de dades.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Abast del projecte
 
--Identificació de peces i espais per incorporar codis QR.
+-Identificació de peces per associar-les a fitxes digitals.
 
--Creació de continguts multimèdia.
+-Creació d’una plataforma web responsive.
 
--Disseny i generació dels codis QR adaptats a l’estètica del museu.
+-Creació de fitxes digitals per a les peces.
 
--Creació de la plataforma per a ceramistes locals.
+-Preparació d’URLs individuals per associar-les a codis QR.
 
--Traducció de tots els continguts a diversos idiomes.
+-Creació d’una secció de ceramistes locals.
 
--Instal·lació i activació final del sistema.
+-Integració de valoracions i comentaris.
 
--Integració de ressenyes, valoracions i sistema de puntuació.
+-Formulari de contacte amb ceramistes.
 
--Recollida i anàlisi de dades d’ús (estadístiques de visites i interaccions).
+-Base de dades per guardar peces, ceramistes, comentaris i missatges.
+
+-Panell d’administració bàsic.
+
+-Desplegament de la demo en un hosting real.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
